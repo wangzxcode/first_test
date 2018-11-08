@@ -1,0 +1,4 @@
+LIBRARY        "shmq"
+EXPORTS
+	SHMQ_Send	@1
+	SHMQ_Recv	@2
